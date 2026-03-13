@@ -161,3 +161,4 @@ demo.launch(share=True, server_port=int(os.environ['PORT4']))
 <img width="1245" height="376" alt="image" src="https://github.com/user-attachments/assets/85967e9b-89fa-497b-b663-caa12f4872d9" />
 
 ### RESULT:
+The Named Entity Recognition (NER) prototype was successfully developed using a fine-tuned BART model. The system accurately identifies entities from input text and displays the results through an interactive Gradio web interface. Thus, the objective of building and deploying the NER application was achieved.
